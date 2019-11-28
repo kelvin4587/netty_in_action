@@ -1,2 +1,2 @@
 # netty_in_action
-netty_source_code
+the source code of netty in action
